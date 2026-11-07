@@ -1,0 +1,6 @@
+{
+  "name": "freboy media plus",
+  "description": "High-performance IPTV player with M3U playlist, Xtream Codes, and Stalker portal support, electronic channel guide, and video streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
